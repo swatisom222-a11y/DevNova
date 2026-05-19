@@ -62,9 +62,10 @@ https://devnova.vercel.app
 
 Project screenshot:
 
+<img width="1920" height="6652" alt="screencapture-Light-Mode" src="https://github.com/user-attachments/assets/b8b369ff-eee3-498b-9ea9-4115372dbbfe" />
+
 <img width="1920" height="6652" alt="screencapture-Dark-Mode" src="https://github.com/user-attachments/assets/6a4622c4-0423-4de0-b9a3-48f7f756f239" />
 
-<img width="1920" height="6652" alt="screencapture-Light-Mode" src="https://github.com/user-attachments/assets/b8b369ff-eee3-498b-9ea9-4115372dbbfe" />
 
 
 ---
