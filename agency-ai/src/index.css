@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&family=Manrope:wght@200..800&display=swap');
+
+@custom-variant dark (&:where(.dark, .dark *));   /*💡This enables dark mode styling based on a .dark class. */
+
+*{
+  font-family: "El Messiri", sans-serif;
+  font-weight: 500;
+}
+
+@theme {      /*This defines a CSS variable*/
+   --color-primary:#5044EF;      /* --color-primary = your main brand color */
+}
